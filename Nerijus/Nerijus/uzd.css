@@ -1,0 +1,19 @@
+header {
+    background-color: skyblue;
+    text-align: center;
+}
+aside {
+    background-color: orange;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+.aside {
+    background-color: yellow;
+}
+
+footer {
+    background-color: blueviolet;
+}

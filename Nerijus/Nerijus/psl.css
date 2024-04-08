@@ -1,0 +1,33 @@
+header {
+    background-color: grey;
+    margin-bottom: 10px;
+    text-align: center;
+}
+nav {
+    background-color: grey;
+    margin-bottom: 10px;
+}
+
+aside {
+    background-color: grey;
+    height: 50vh;
+    float: left;
+}
+
+main{
+    background-color: grey;
+    height: 50vh;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.aside2{
+    background-color: grey;
+    height: 50vh;
+    float: right;
+}
+
+footer{
+    background-color: grey;
+    margin-top: 10px;
+}

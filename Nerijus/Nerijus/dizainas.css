@@ -1,0 +1,47 @@
+body {
+    height: 100vh;
+}
+div {
+    width: 100%;
+    height: 20%;
+}
+.div1 {
+    background-color: yellow;
+}
+.div2 {
+    background-color: yellowgreen;
+}
+.div3 {
+    background-color: orange;
+}
+.div4 {
+    background-color: orangered;
+}
+.div5 {
+    background-color: red;
+}
+
+@media(min-width: 468px){
+    .div1{
+        height: 60%;
+        width: 50%;
+        float: right;
+    }
+    .div2{
+        height: 60%;
+        width: 50%;
+        float: left;
+    }
+    .div3 {
+        width: 33%;
+        float: left;
+    }
+    .div4 {
+        width: 34%;
+        float: left;
+    }
+    .div5 {
+        width: 33%;
+        float: right;
+    }
+}
